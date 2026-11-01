@@ -9,3 +9,7 @@ Bridge React Native truy cập lịch thiết bị.
 Chuẩn dùng chung: [AI Context](https://github.com/droppii/engineering-knowledge/tree/docs/repository-context-pilot/handbook/ai-context/README.md) và [Standards](https://github.com/droppii/engineering-knowledge/tree/docs/repository-context-pilot/handbook/standards/standards.md). Ghi revision đã dùng và kết quả kiểm chứng trong PR; cập nhật ngữ cảnh cùng mã.
 
 Giữ permission, timezone, recurring event và khác biệt hai hệ điều hành. Test không được ghi vào lịch cá nhân thật. Script test gốc chỉ in thông báo, không chứng minh native behavior được kiểm thử.
+
+## Profile thực thi
+
+Đọc [.engineering/README.md](.engineering/README.md) để chọn profile theo module và nhu cầu kiểm chứng. Dùng checkout/worktree do công cụ agent quản lý theo công việc; phân biệt kiểm nguồn, kiểm mã và kiểm thử hành vi.
