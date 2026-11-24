@@ -1,0 +1,8 @@
+{
+  "component": "react-native-calendar-events",
+  "connectors": [
+    "github"
+  ],
+  "environments": {},
+  "partners": []
+}
